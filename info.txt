@@ -1,2 +1,4 @@
 Autor: Imię Nazwisko
 Kurs: DevOps
+git add info.txt
+git commit -m "Dodano linię z nazwą kursu"
