@@ -1,1 +1,4 @@
 Autor: Imię Nazwisko
+Kurs: Technologie DevOps
+git add info.txt
+git commit -m "Zmieniono nazwę kursu"
